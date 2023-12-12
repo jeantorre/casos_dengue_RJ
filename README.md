@@ -30,6 +30,7 @@ O intuito dessas sugestões é criar um sistema de recompensa para o modelo de m
 # Referência
 - Dengue - Notificações registradas no sistema de informação de agravos de notificação - Rio de Janeiro. **DataSUS**, 2023. Disponível em: <http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinannet/cnv/denguebrj.def>. Acesso em 08 de dez. de 2023.
 - Instituto Nacional de Meteorologia. **INMET**, 2023. Disponível em: <https://bdmep.inmet.gov.br/>. Acesso em 08 de dez. de 2023.
+- Secretaria de Saúde promove ações de prevenção à dengue em pontos estratégicos. **Rio Prefeitura**, 2023. Disponível em: <https://prefeitura.rio/saude/secretaria-de-saude-promove-acoes-de-prevencao-a-dengue-em-pontos-estrategicos/>. Acesso em 11 de dez. de 2023.
 
 ---
 
